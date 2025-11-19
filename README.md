@@ -133,7 +133,7 @@ java src.Main
 ---
 
 ## 👨‍💻 Authors
-- Harshkumar Bhamare
+ Harshkumar Bhamare
 
 ---
 

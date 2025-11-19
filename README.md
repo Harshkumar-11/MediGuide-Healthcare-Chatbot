@@ -1,7 +1,7 @@
 # MediGuide – Healthcare Chatbot
 
 ## 📌 Overview
-MediGuide is a **Java-based Healthcare Chatbot** designed to assist users with preliminary medical guidance. Through a conversational interface, the chatbot collects symptoms, analyzes them using **decision-tree logic**, and predicts possible diseases. It then provides recommended medicines, precautions, and diet suggestions.
+MediGuide is a **Java-based Healthcare Chatbot** designed to assist users with preliminary medical guidance. Through a conversational interface, the chatbot collects symptoms, analyzes them using **decision-tree logic**, and predicts possible diseases. It then provides recommended medicines, precautions, and diet suggestions
 
 This project aims to improve accessibility to basic medical knowledge and reduce dependency on frequent doctor visits for minor health concerns.
 

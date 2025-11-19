@@ -75,30 +75,44 @@ java src.Main
 ---
 
 ## 🧠 How It Works
-1. **User Login Page:**
-   - User enters medical details such as:
-     - Blood Pressure
-     - Diabetes status
-     - Any other existing diseases
-     - Allergies
-     - Weight & Height
-   - These values are **not predicted by the chatbot**—they are provided by the **doctor or medical expert**, and stored safely in the backend.
+1. **Phase 1 – Basic User Login & Profile Setup:**
+- User enters initial personal details:
+- Name
+- Age
+- Gender
+- Weight & Height (BMI auto-calculated)
+- These basic details help personalize predictions and build the foundation of the user's health profile.
 
-2. **Chatbot Interaction:**
-   - Chatbot asks the user for symptoms
-   - User responds in text form (chat interface)
-   - Backend processes symptoms using **Decision-Tree logic**
 
-3. **Disease Prediction:**
-   - System predicts possible diseases based on:
-     - User symptoms
-     - Medical history (BP, diabetes, allergies, etc.)
+2. **Phase 2 – Medical Information Entry:**
+- After basic details, the system collects medically relevant information such as:
+- Blood Pressure
+- Diabetes status
+- Any other existing diseases
+- Chronic Conditions (long-term illnesses)
+- Allergies
+- Pregnancy Status (for female users)
+- Recent Surgeries or Hospitalization
+- These values are **not predicted by the chatbot**—they are provided by a **doctor or medical expert**, and safely stored in the backend.
 
-4. **Output Displayed to User:**
-   - Remedies
-   - Medicines
-   - Precautions
-   - Diet recommendations
+
+3. **Chatbot Interaction:**
+- The chatbot asks the user for symptoms
+- User responds in chat-based text format
+- Backend processes symptoms using **Decision-Tree logic** integrated with medical history
+
+
+4. **Disease Prediction Engine:**
+- The system predicts possible diseases based on:
+- User symptoms
+- Complete health profile (BP, diabetes, surgeries, BMI, allergies, chronic conditions, pregnancy, etc.)
+
+
+5. **Output Displayed to User:**
+- Remedies
+- Medicines
+- Precautions
+- Diet recommendations
 
 ---
 

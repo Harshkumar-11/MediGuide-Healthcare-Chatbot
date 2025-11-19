@@ -121,4 +121,4 @@ java src.Main
 ## 📄 License
 This project is licensed under the **MIT License**.
 
-Feel free to contribute or open issues! 😊
+Feel free to contribute or open issues! 

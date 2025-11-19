@@ -118,6 +118,7 @@ java src.Main
 - Medicines
 - Precautions
 - Diet recommendations
+  **Note:** All recommendations are pre-approved and provided by a **doctor or medical expert**, not generated independently by the chatbot. The chatbot only displays the expert-verified information based on predicted disease.
 ---
 
 ---

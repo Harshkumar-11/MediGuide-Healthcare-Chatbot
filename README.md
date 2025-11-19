@@ -75,6 +75,7 @@ java src.Main
 ---
 
 ## 🧠 How It Works
+---
 1. **Phase 1 – Basic User Login & Profile Setup:**
 - User enters initial personal details:
 - Name
@@ -84,36 +85,39 @@ java src.Main
 - These basic details help personalize predictions and build the foundation of the user's health profile.
 
 
+---
 2. **Phase 2 – Medical Information Entry:**
 - After basic details, the system collects medically relevant information such as:
 - Blood Pressure
 - Diabetes status
 - Any other existing diseases
-- Chronic Conditions (long-term illnesses)
+- Chronic Conditions (long‑term illnesses)
 - Allergies
 - Pregnancy Status (for female users)
 - Recent Surgeries or Hospitalization
 - These values are **not predicted by the chatbot**—they are provided by a **doctor or medical expert**, and safely stored in the backend.
 
 
+---
 3. **Chatbot Interaction:**
 - The chatbot asks the user for symptoms
 - User responds in chat-based text format
-- Backend processes symptoms using **Decision-Tree logic** integrated with medical history
+- Backend processes symptoms using **Decision‑Tree logic** integrated with medical history
 
 
+---
 4. **Disease Prediction Engine:**
 - The system predicts possible diseases based on:
 - User symptoms
 - Complete health profile (BP, diabetes, surgeries, BMI, allergies, chronic conditions, pregnancy, etc.)
 
 
+---
 5. **Output Displayed to User:**
 - Remedies
 - Medicines
 - Precautions
 - Diet recommendations
-
 ---
 
 ---

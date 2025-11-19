@@ -95,7 +95,8 @@ java src.Main
 - Allergies
 - Pregnancy Status (for female users)
 - Recent Surgeries or Hospitalization
-- These values are **not predicted by the chatbot**—they are provided to a **doctor or medical expert**, and safely stored in the backend.
+
+ These values are **not predicted by the chatbot**—they are provided to a **doctor or medical expert**, and safely stored in the backend.
 
 
 ---
@@ -118,7 +119,8 @@ java src.Main
 - Medicines
 - Precautions
 - Diet recommendations
-- **Note:** All recommendations are pre-approved and provided by a **doctor or medical expert**, not generated independently by the chatbot. The chatbot only displays the expert-verified information based on predicted disease.
+
+  **Note:** All recommendations are pre-approved and provided by a **doctor or medical expert**, not generated independently by the chatbot. The chatbot only displays the expert-verified information based on predicted disease.
 ---
 
 ---
